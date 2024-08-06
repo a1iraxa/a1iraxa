@@ -29,3 +29,29 @@ src="https://img.shields.io/twitter/follow/a1iraxa?logo=twitter&style=for-the-ba
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/a1iraxa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+### Socials
+
+<p align="left">
+	<a href="https://www.dev.to/a1iraxa" target="_blank" rel="noreferrer"> 
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
+			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+		</picture>
+	</a>
+	<a href="https://www.github.com/a1iraxa" target="_blank" rel="noreferrer">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+		</picture>
+	</a>
+	<a href="https://www.x.com/a1iraxa" target="_blank" rel="noreferrer">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/>
+		</picture>
+	</a>
+</p>
