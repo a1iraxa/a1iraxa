@@ -3,14 +3,39 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer | Technology Enthusiast | Web Developer
 ------------------------------------------------------------
+I'm a full-stack software engineer focused on building, fixing and improving web applications and ecommerce systems.
+
+I've been working professionally with web technologies for more than a decade, with most of my experience around **PHP, Laravel, WordPress, WooCommerce and Shopify**.
+
+These days I combine that experience with AI-assisted development using tools such as Claude Code and Codex. I'm interested in using AI to make experienced developers more effective — not in replacing engineering judgment with generated code.
+
+### What I work on
+
+- PHP and Laravel applications
+- WordPress plugins, themes and custom functionality
+- WooCommerce development
+- Shopify themes and custom features
+- APIs, webhooks and third-party integrations
+- Ecommerce and business automation
+- Debugging and application modernization
+- Developer utilities and experiments
+- AI-assisted software development
+
+### What I enjoy
+
+I particularly enjoy projects where the problem isn't obvious: debugging an old codebase, integrating systems that weren't designed to work together, simplifying a complicated workflow, or taking an unfinished implementation and getting it production-ready.
+
+You'll find a mix of client-independent utilities, experiments, learning projects and open-source code across my repositories.
+
+### Current direction
+
+I'm currently exploring practical ways to combine traditional software engineering with LLM-powered tools, agents and automation — especially where they can solve real problems for ecommerce businesses and software teams.
+
+If you're building something interesting with PHP, Laravel, WordPress, Shopify, ecommerce or AI-assisted development, feel free to connect.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my reviews at [Fiverr](https://www.fiverr.com/w3blevel)
 * ✉️  You can contact me at [aliraza.progressive@gmail.com](mailto:aliraza.progressive@gmail.com)
-
-<a href="https://www.twitter.com/a1iraxa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/a1iraxa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Badges
 <p align="left">
@@ -23,12 +48,6 @@ src="https://img.shields.io/twitter/follow/a1iraxa?logo=twitter&style=for-the-ba
     <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a1iraxa&layout=compact&langs_count=6&theme=algolia"/>
   </a>
 </p>
-<p align="left">
-  <a href="https://github.com/a1iraxa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1iraxa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
-### Support Me
-<a href="https://www.buymeacoffee.com/a1iraxa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 ### Socials
 
